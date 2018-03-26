@@ -1,8 +1,9 @@
 # git_tutorial0
 
-aaaaaaaaaaaaaa
+Futurehack Beginner Hackathon Workshop
 ===
 
 ```
-Test test
+Terribly designed by:
+Lee Kah Kin
 ```
